@@ -1,2 +1,4 @@
-name: Example codelab
-type: dart # Optional
+name: A Dartpad exercise
+mode: dart
+files:
+  - name: trial.dart
